@@ -1,7 +1,4 @@
-Modelo de Readme do GitHub:
-
-
-# 🚀 My Components
+# 🚀 Tela de Login
 
 Repositório criado durante o curso de **Desenvolvimento Web**, com o objetivo de reunir e demonstrar componentes web reutilizáveis desenvolvidos em HTML e CSS.
 
